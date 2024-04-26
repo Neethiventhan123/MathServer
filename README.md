@@ -28,6 +28,7 @@ Step 6:
 Publish the website in the given URL.
 
 PROGRAM :
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -76,7 +77,7 @@ PROGRAM :
     <center>
 
         <h1>Surface Area of Cylinder</h1>
-        <h2>K.Sai Vinay(212221040069)</h2>
+        <h2> Neethiventhan(212223100038)</h2>
         <h3>Radius : <input size="30px" type="text"  name="radius" id="radius" placeholder="Enter the Radius of the cylinder">m <br> <br>
         Height : <input type="text" size="30px" name="height" id="height" placeholder="Enter the Height of the cylinder">m <br><br>
         <button type="button" onclick="check()">AREA</button> <br> <br>
@@ -84,8 +85,11 @@ PROGRAM :
     </center>
 </body>
 </html>
+```
 OUTPUT:
-alt text
+![image](https://github.com/Neethiventhan123/MathServer/assets/148514848/a6c293b6-53f3-402d-b38b-3b65f44b0cb0)
+
+
 
 RESULT:
 The program for performing server side processing is completed successfully..
