@@ -1,16 +1,14 @@
-#Ex.05 Design a Website for Server Side Processing
-##Date:25/04/24
-
-##AIM:
+Ex.05 Design a Website for Server Side Processing
+Date:
+AIM:
 To design a website to find surface area of a Right Cylinder in server side.
 
-##FORMULA:
+FORMULA:
 Surface Area = 2Πrh + 2Πr2
 r --> Radius of Right Cylinder
 h --> Height of Right Cylinder
 
-##DESIGN STEPS:
-
+DESIGN STEPS:
 Step 1:
 Clone the repository from GitHub.
 
@@ -30,7 +28,6 @@ Step 6:
 Publish the website in the given URL.
 
 PROGRAM :
-```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -79,19 +76,16 @@ PROGRAM :
     <center>
 
         <h1>Surface Area of Cylinder</h1>
-        <h2> Neethiventhan(212223100038)</h2>
-        <h3>Radius : <input size="30px" type="text"  name="radius" id="radius" placeholder="Enter the Radius of the cylinder">m <br> <br>
+
+        <h2>Radius : <input size="30px" type="text"  name="radius" id="radius" placeholder="Enter the Radius of the cylinder">m <br> <br>
         Height : <input type="text" size="30px" name="height" id="height" placeholder="Enter the Height of the cylinder">m <br><br>
         <button type="button" onclick="check()">AREA</button> <br> <br>
-        Output : <input type="text" size="30px" name="result" id="result" placeholder="Output"> m<sup>2</sup></span></h3>
+        Output : <input type="text" size="30px" name="result" id="result" placeholder="Output"> m<sup>2</sup></span></h2>
     </center>
 </body>
 </html>
-```
 OUTPUT:
-![image](https://github.com/Neethiventhan123/MathServer/assets/148514848/a6c293b6-53f3-402d-b38b-3b65f44b0cb0)
-
-
+Screenshot 2024-04-25 235525
 
 RESULT:
-The program for performing server side processing is completed successfully..
+The program for performing server side processing is completed successfully.
