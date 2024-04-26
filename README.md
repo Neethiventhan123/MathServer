@@ -1,14 +1,16 @@
-Ex.05 Design a Website for Server Side Processing
-Date:25/04/24
-AIM:
+#Ex.05 Design a Website for Server Side Processing
+##Date:25/04/24
+
+##AIM:
 To design a website to find surface area of a Right Cylinder in server side.
 
-FORMULA:
+##FORMULA:
 Surface Area = 2Πrh + 2Πr2
 r --> Radius of Right Cylinder
 h --> Height of Right Cylinder
 
-DESIGN STEPS:
+##DESIGN STEPS:
+
 Step 1:
 Clone the repository from GitHub.
 
